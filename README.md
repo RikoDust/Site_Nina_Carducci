@@ -1,5 +1,7 @@
 Nina Carducci
+
 Projet – Nina Carducci (formation intégrateur web - Openclassrooms)
+
 Présentation : Optimisation, amélioration de l’accessibilité et référencement du site existant d’une photographe.
 •	Audit du site avec Lighthouse
 •	Optimisation des images
