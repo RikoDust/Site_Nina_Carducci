@@ -59,7 +59,7 @@ form input, form textarea {
     margin-bottom: 20px;
 }
 .quote { width: 70%; margin: auto; padding-block: 3em; }
-.quote__text { font-weight: 300; }
+.quote__text { font-weight: 300; font-size: 34px ; }
 .quote__author { font-weight: 800; font-size: 22px; }
 #services { margin: auto; background-color: #a8d5d8; }
 #services .container::before {
